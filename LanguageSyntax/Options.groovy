@@ -1,4 +1,4 @@
-class Example { 
+class Options { 
    static void main(String[] args) { 
       def a = 100; 
       println(a); 
